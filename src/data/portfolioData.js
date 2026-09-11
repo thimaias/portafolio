@@ -7,7 +7,7 @@ export const developerInfo = {
   contacts: {
     discord: "thimatias",
     github: "https://github.com/thimaias",
-    email: "thimatias131@email.com"
+    email: "thimatias131@gmail.com"
   }
 };
 
